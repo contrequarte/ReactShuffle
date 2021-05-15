@@ -1,0 +1,13 @@
+header {
+  background-color: #f5ba13;
+  margin: auto -16px;
+  padding: 16px 32px;
+  text-align: left;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+header h1 {
+  color: rgb(255, 255, 255);
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+}
