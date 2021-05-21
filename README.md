@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Creating a shuffe game like app based on Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
